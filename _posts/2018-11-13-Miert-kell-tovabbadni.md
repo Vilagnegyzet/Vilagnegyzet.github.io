@@ -7,7 +7,6 @@ img: miert-kell-tovabbadni.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Iskola]
 ---
-![Miért?](https://forum.vilagnegyzet.eu/images/miert-kell-tovabbadni.jpg)
 
 Miért van az, hogy az iskolában az elnyomást tanítják? Hogy a véleményed semmit sem ér?  Hogy arra ösztönöznek, hogy húzd meg magad és fogadd el, hogy egy műveletlen fiatal vagy, egy lecsúszott generációból, aki sosem fogja semmire se vinni.<!--more-->
 
